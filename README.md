@@ -10,3 +10,5 @@ Le script peut bien entendu etre adapté à votre guise. N'hésitez pas à faire
 # Pré-requis
 
 Ce script doit simplement etre exécutable, comme tout script. Il peut fonctionner seul pour ressortir une information au besoin mais son objectif est d'etre utilisé avec l'applet CommandRunner disponible dans le store d'applet dans Cinnamon (Paramètres sytème > Applets). Lien vers le site de l'applet : https://cinnamon-spices.linuxmint.com/applets/view/226
+
+Pour appeler le script dans CommandRunner, il suffit de mettre l'adresse du script dans le paramètre Commande de la configuration de CommandRunner. Personnellement, j'ai mis l'option Run interval à 1 et Unit à s pour avoir un rafraichissement toutes les secondes.
